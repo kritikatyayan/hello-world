@@ -1,2 +1,3 @@
 # hello-world
-exploring how github works ! !
+Hi peeps ! 
+LOL...
